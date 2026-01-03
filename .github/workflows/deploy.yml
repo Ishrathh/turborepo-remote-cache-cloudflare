@@ -2,8 +2,8 @@ name: Deploy to Cloudflare Workers
 
 on:
   repository_dispatch:
-  push:
-    branches: ['master']
+  # push:
+  #   branches: ['master']
 
 jobs:
   build-and-deploy:
