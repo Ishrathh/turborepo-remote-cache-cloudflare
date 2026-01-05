@@ -22,7 +22,7 @@
   // ],
   "kv_namespaces": [
     {
-      "binding": "KV",
+      "binding": "KV_STORE",
       "id": "09dcebcc75f449589da5453da7340e9e",
       "preview_id": "09dcebcc75f449589da5453da7340e9e"
     }
